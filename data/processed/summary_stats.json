@@ -1,0 +1,16 @@
+{
+    "total_transactions": 5000,
+    "total_amount": 32107245.255039226,
+    "avg_amount": 6421.449051007845,
+    "min_amount": 0.4746190616633505,
+    "max_amount": 252844.6917599533,
+    "std_amount": 11514.326480617161,
+    "num_outliers": 78,
+    "date_range": [
+        "2022-01-01 00:00:00",
+        "2022-12-31 00:00:00"
+    ],
+    "top_province": "Ontario",
+    "top_sector": "Banking",
+    "top_report_type": "LCTR"
+}
