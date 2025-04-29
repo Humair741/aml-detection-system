@@ -1,7 +1,7 @@
 🔍 Project Overview
 This advanced Anti-Money Laundering (AML) detection system is specifically designed for investment banking environments. Using data science and machine learning techniques, it uncovers sophisticated money laundering schemes through compelling visualizations and narrative-driven insights. The system demonstrates how modern analytics can detect Trade-Based Money Laundering (TBML), casino exploitation, and complex financing arrangements.
-🎯 Key Features
 
+🎯 Key Features
 Multi-Modal Detection Approach: Combines rule-based, anomaly detection, supervised learning, and network analysis techniques
 Pattern Recognition: Identifies TBML, casino-investment connections, and complex financing schemes
 Network Analysis: Reveals hidden relationships between entities and transactions
